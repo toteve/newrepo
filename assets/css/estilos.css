@@ -3,16 +3,17 @@ body {
 }
 
 img {
-  background-color: blue;
+  background-color: rgb(9, 77, 4);
+  width: 20%;
 }
 
 /* Hero Section */
 
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center;
 }
 
 /* Mis trabajos */
